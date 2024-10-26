@@ -44,9 +44,7 @@
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
 <br/>
- 
- - The first website i made (from the old day when i start coding): https://winter24.github.io/banhdangiannambo.github.io/
- <br/>
+<br/>
 
 
 <h1>Published Paper:</h1> <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
