@@ -68,12 +68,6 @@
     <td>2023</td>
   </tr>
   <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:qjMakFHDy7sC">Augmentation-Enhanced Deep Learning for Face Detection and Emotion Recognition in Elderly Care Robots</a></td>
-    <td>HN Tran, PH Phan, KH Nguyen, HK Hua, AQ Nguyen, HNV Nguyen, ...</td>
-    <td>2</td>
-    <td>2024</td>
-  </tr>
-  <tr>
      <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:2osOgNQ5qMEC">Enhancing Semantic Scene Segmentation for Indoor Autonomous Systems Using Advanced Attention-Supported Improved UNet</a></td>
     <td>HT Ngoc, NN Vinh, NQP Le, NNN Nguyen, TAN Le, VN Dinh</td>
     <td></td>
@@ -99,7 +93,7 @@
   </tr>
 </table>
 
-<p>Last Updated: 2024-10-26 09:59:28 UTC</p><!-- SCHOLAR-LIST:END -->
+<p>Last Updated: 2024-10-28 03:39:36 UTC</p><!-- SCHOLAR-LIST:END -->
 <br/>
 
 <h1>Coursera Certificate:</h1> <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
