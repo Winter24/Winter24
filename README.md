@@ -38,6 +38,18 @@
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
 <br/>
 
+- I currently specialize in developing lightweight deep learning models for autonomous vehicles with ROS2. Some typical projects:
+
+## DBSCAN and RANSAC:
+<p align="center">
+  <img src="https://github.com/Winter24/3D-LiDAR-Object-Detection/blob/master/dbscan%20and%20ransac.jpeg" alt="Centered image" width="600" height="400" />
+</p>
+
+## Pedestrian Detection:
+<p align="center">
+  <img src="https://github.com/Winter24/3D-LiDAR-Object-Detection/blob/master/pedestrian_detection.png" alt="Centered image" width="600" height="400" />
+</p>
+
 - I have some experience in Competitive Programing:
   <br/>
   <br/>
@@ -61,39 +73,9 @@
     <th>Citations</th>
     <th>Year</th>
   </tr>
-  <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:d1gkVwhDpl0C">Efficient Evaluation of SLAM Methods and Integration of Human Detection with YOLO Based on Multiple Optimization in ROS2.</a></td>
-    <td>HT Ngoc, NN Vinh, NT Nguyen, LD Quach</td>
-    <td>3</td>
-    <td>2023</td>
-  </tr>
-  <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:2osOgNQ5qMEC">Enhancing Semantic Scene Segmentation for Indoor Autonomous Systems Using Advanced Attention-Supported Improved UNet</a></td>
-    <td>HT Ngoc, NN Vinh, NQP Le, NNN Nguyen, TAN Le, VN Dinh</td>
-    <td></td>
-    <td>2024</td>
-  </tr>
-  <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:UeHWp8X0CEIC">Semantic scene segmentation for indoor autonomous vision systems: leveraging an enhanced and efficient U-NET architecture</a></td>
-    <td>TAN Le, NV Nguyen, NT Nguyen, NQP Le, NNN Nguyen, HN Tran</td>
-    <td></td>
-    <td>2024</td>
-  </tr>
-  <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:9yKSN-GCB0IC">Deep Learning-Based Lane-Keeping Assist System for Self-Driving Cars Using Transfer Learning and Fine Tuning</a></td>
-    <td>PP Hong, HH Khanh, NN Vinh, NN Trung, AN Quoc, HT Ngoc</td>
-    <td></td>
-    <td>2024</td>
-  </tr>
-  <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:u-x6o8ySG0sC">An Improved Lane-Keeping Controller for Autonomous Vehicles Leveraging an Integrated CNN-LSTM Approach</a></td>
-    <td>TN Hoang, PP Hong, NN Vinh, NT Nguyen, KH Nguyen, LD Quach</td>
-    <td></td>
-    <td>2023</td>
-  </tr>
 </table>
 
-<p>Last Updated: 2024-10-28 03:39:36 UTC</p><!-- SCHOLAR-LIST:END -->
+<p>Last Updated: 2025-01-16 10:16:18 UTC</p><!-- SCHOLAR-LIST:END -->
 <br/>
 
 <h1>Coursera Certificate:</h1> <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
