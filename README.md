@@ -40,15 +40,23 @@
 
 - I currently specialize in developing lightweight deep learning models for autonomous vehicles with ROS2. Some typical projects:
 
-## DBSCAN and RANSAC:
-<p align="center">
-  <img src="https://github.com/Winter24/3D-LiDAR-Object-Detection/blob/master/dbscan%20and%20ransac.jpeg" alt="Centered image" width="600" height="400" />
-</p>
+<table>
+  <tr>
+    <td>
+      ## DBSCAN and RANSAC:
+      <p align="center">
+        <img src="https://github.com/Winter24/3D-LiDAR-Object-Detection/blob/master/dbscan%20and%20ransac.jpeg" alt="Centered image" width="600" height="400" />
+      </p>  
+    </td>
+    <td>
+      ## Pedestrian Detection:
+      <p align="center">
+        <img src="https://github.com/Winter24/3D-LiDAR-Object-Detection/blob/master/pedestrian_detection.png" alt="Centered image" width="600" height="400" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-## Pedestrian Detection:
-<p align="center">
-  <img src="https://github.com/Winter24/3D-LiDAR-Object-Detection/blob/master/pedestrian_detection.png" alt="Centered image" width="600" height="400" />
-</p>
 
 - I have some experience in Competitive Programing:
   <br/>
