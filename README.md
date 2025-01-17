@@ -27,7 +27,7 @@
   </tr>
 </table>
 
-![GitHub Profile Summary Card](https://raw.githubusercontent.com/winter24/Winter24/main/cards/stats.svg)
+![](https://raw.githubusercontent.com/winter24/Winter24/main/cards/stats.svg)
 
 <table align="center">
   <td>
