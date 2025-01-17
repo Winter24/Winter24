@@ -1,80 +1,44 @@
 import requests
-from bs4 import BeautifulSoup
+import re
 
-# Replace this with your GitHub username
-USERNAME = "winter24"
+# Define the target URL and desired theme
+url = "https://github-profile-summary-cards.vercel.app/demo.html"
+theme = {
+    "bg_color": "2b213a",
+    "title_color": "FF66C4",
+    "text_color": "C9D1D9",
+    "icon_color": "F8D866",
+    "border_color": "30363D"
+}
+username = "winter24"
 
-# URL for the GitHub contributions page
-CONTRIBUTIONS_URL = f"https://github.com/users/{USERNAME}/contributions"
-
-# Fetch contributions data from the GitHub contributions page
-response = requests.get(CONTRIBUTIONS_URL)
+# Fetch the HTML content of the demo page
+response = requests.get(url)
 if response.status_code != 200:
-    print(f"Failed to fetch data: {response.status_code}")
+    print("Failed to fetch the page")
     exit()
 
-# Parse the contributions data using BeautifulSoup
-soup = BeautifulSoup(response.content, "html.parser")
-contributions = []
+html_content = response.text
 
-# Extract daily contributions from the SVG
-for rect in soup.find_all("rect", {"data-count": True}):
-    contributions.append(int(rect["data-count"]))
+# Extract the SVG content from the HTML
+svg_match = re.search(r'(<svg[^>]*>.*?</svg>)', html_content, re.DOTALL)
+if not svg_match:
+    print("Failed to find SVG content")
+    exit()
 
-# Check if contributions data is empty
-if not contributions:
-    print("No contributions data found!")
-    contributions = [0] * 365  # Fallback for an empty graph (365 days of zeros)
+svg_content = svg_match.group(1)
 
-# Normalize the data for the graph
-max_contributions = max(contributions)
-if max_contributions == 0:
-    normalized = [0] * len(contributions)  # Prevent division by zero
-else:
-    normalized = [(y / max_contributions) * 100 for y in contributions]  # Scale to fit height
+# Update the SVG with the username and theme colors
+svg_content = svg_content.replace("Demo User", username)
+svg_content = svg_content.replace("bg_color='FFFFFF'", f"bg_color='{theme['bg_color']}'")
+svg_content = svg_content.replace("title_color='0969DA'", f"title_color='{theme['title_color']}'")
+svg_content = svg_content.replace("text_color='333'", f"text_color='{theme['text_color']}'")
+svg_content = svg_content.replace("icon_color='586069'", f"icon_color='{theme['icon_color']}'")
+svg_content = svg_content.replace("border_color='D0D7DE'", f"border_color='{theme['border_color']}'")
 
-# Function to generate SVG path for the graph
-def generate_graph_svg(data):
-    if not data:
-        return ""
-    path_d = f"M0,{100 - data[0]:.2f}"  # Start point
-    for i, y in enumerate(data[1:], 1):
-        x = i * (700 / len(data))  # Compute x-coordinate
-        path_d += f" L{x:.2f},{100 - y:.2f}"  # Line to next point
-    return f'<path d="{path_d}" fill="none" stroke="#F8D866" stroke-width="2" />'
-
-# Generate the SVG path for the graph
-graph_svg = generate_graph_svg(normalized)
-
-# Generate the full SVG file
-svg_template = f"""
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200" viewBox="0 0 700 200">
-  <style>
-    * {{
-      font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
-    }}
-  </style>
-  <!-- Background -->
-  <rect x="1" y="1" rx="5" ry="5" height="198" width="698" fill="#2b213a" stroke="#30363D" stroke-width="1"></rect>
-  
-  <!-- Title -->
-  <text x="30" y="40" style="font-size: 22px; fill: #FF66C4;">
-    GitHub Profile Summary: {USERNAME}
-  </text>
-  
-  <!-- Contributions -->
-  <text x="30" y="80" style="font-size: 16px; fill: #C9D1D9;">
-    Contributions in the Last Year: {sum(contributions)}
-  </text>
-  
-  <!-- Graph -->
-  {graph_svg}
-</svg>
-"""
-
-# Write the SVG content to a file
+# Write the updated SVG content into a file
 output_file = "./cards/stats.svg"
-with open(output_file, "w") as file:
-    file.write(svg_template)
+with open(output_file, "w", encoding="utf-8") as file:
+    file.write(svg_content)
 
-print(f"SVG file generated: {output_file}")
+print(f"SVG file created: {output_file}")
