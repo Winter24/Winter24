@@ -1,6 +1,40 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="200" viewBox="0 0 700 200">
-  <rect x="1" y="1" width="698" height="198" fill="#2b213a" stroke="#30363D" />
-  <text x="30" y="40" font-size="22" fill="#FF66C4">GitHub User: Winter24</text>
-  <text x="30" y="70" font-size="16" fill="#C9D1D9">Repositories: 17</text>
+  <style>
+    * {
+      font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
+    }
+  </style>
+  <!-- Background -->
+  <rect x="1" y="1" rx="5" ry="5" height="198" width="698" fill="#2b213a" stroke="#30363D" stroke-width="1"></rect>
+  
+  <!-- Title -->
+  <text x="30" y="40" style="font-size: 22px; fill: #FF66C4;">
+    GitHub Profile Summary: Winter24
+  </text>
+  
+  <!-- Contributions -->
+  <text x="30" y="80" style="font-size: 16px; fill: #C9D1D9;">
+    Contributions in the Last Year: N/A
+  </text>
+  
+  <!-- Public Repos -->
+  <text x="30" y="100" style="font-size: 16px; fill: #C9D1D9;">
+    Public Repositories: 17
+  </text>
+  
+  <!-- Followers -->
+  <text x="30" y="120" style="font-size: 16px; fill: #C9D1D9;">
+    Followers: 10
+  </text>
+  
+  <!-- Following -->
+  <text x="30" y="140" style="font-size: 16px; fill: #C9D1D9;">
+    Following: 34
+  </text>
+  
+  <!-- Joined Date -->
+  <text x="30" y="160" style="font-size: 16px; fill: #C9D1D9;">
+    Joined GitHub: 2020-08-27
+  </text>
 </svg>
