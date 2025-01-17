@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Nghi (username: @Winter24).
 - 🐞 I'm a Bug.
-- 👀 I’m interested in detective novels, coding, solving problems,...
+- 👀 I’m interested in detective novels, coding, solving problems.
 - I'm a Weeb, in love with robot, space ship, space science, astronomy... 
 - 🌱 I’m currently learning in FPT university.
 ###  	:hammer_and_wrench: Tech Skills
@@ -13,7 +13,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <br/>
 
-<table>
+# 📊GitHub Stats :
+<table align="center">
   <tr>
     <td>
       <!-- GitHub Stats card -->
@@ -25,10 +26,14 @@
     </td>
   </tr>
 </table>
-
+<table align="center">
+  <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=winter24&theme=dark&background=2b213a&ring=FF66C4&fire=FF66C4&currStreakLabel=F8D866&sideNums=F8D866&dates=C9D1D9&border=30363D" alt="GitHub Streak" />
+  </td>
+</table>
 <br/>
 
-- Working with:
+- I currently specialize in developing lightweight deep learning models for autonomous vehicles with ROS2. Working with:
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"/>
@@ -38,25 +43,17 @@
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
 <br/>
 
-- I currently specialize in developing lightweight deep learning models for autonomous vehicles with ROS2. Some typical projects:
-
-<table>
+- Some typical pointcloud projects with ROS2:
+<table align="center">
   <tr>
-    <td>
-      ## DBSCAN and RANSAC:
-      <p align="center">
-        <img src="https://github.com/Winter24/3D-LiDAR-Object-Detection/blob/master/dbscan%20and%20ransac.jpeg" alt="Centered image" width="600" height="400" />
-      </p>  
-    </td>
     <td>
       ## Pedestrian Detection:
       <p align="center">
-        <img src="https://github.com/Winter24/3D-LiDAR-Object-Detection/blob/master/pedestrian_detection.png" alt="Centered image" width="600" height="400" />
+      <img src="https://github.com/Winter24/3D-LiDAR-Object-Detection/blob/master/pedestrian_detection.png" alt="Centered image" width="600" height="400" />  
       </p>
     </td>
   </tr>
 </table>
-
 
 - I have some experience in Competitive Programing:
   <br/>
