@@ -26,6 +26,9 @@
     </td>
   </tr>
 </table>
+
+![GitHub Profile Summary Card](https://raw.githubusercontent.com/winter24/Winter24/main/cards/stats.svg)
+
 <table align="center">
   <td>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=winter24&theme=dark&background=2b213a&ring=FF66C4&fire=FF66C4&currStreakLabel=F8D866&sideNums=F8D866&dates=C9D1D9&border=30363D" alt="GitHub Streak" />
