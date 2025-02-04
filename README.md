@@ -81,9 +81,45 @@
     <th>Citations</th>
     <th>Year</th>
   </tr>
+  <tr>
+     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:9yKSN-GCB0IC">Deep Learning-Based Lane-Keeping Assist System for Self-Driving Cars Using Transfer Learning and Fine Tuning</a></td>
+    <td>PP Hong, HH Khanh, NN Vinh, NN Trung, AN Quoc, HT Ngoc</td>
+    <td>4</td>
+    <td>2024</td>
+  </tr>
+  <tr>
+     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:d1gkVwhDpl0C">Efficient Evaluation of SLAM Methods and Integration of Human Detection with YOLO Based on Multiple Optimization in ROS2.</a></td>
+    <td>HT Ngoc, NN Vinh, NT Nguyen, LD Quach</td>
+    <td>3</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:u-x6o8ySG0sC">An Improved Lane-Keeping Controller for Autonomous Vehicles Leveraging an Integrated CNN-LSTM Approach</a></td>
+    <td>TN Hoang, PP Hong, NN Vinh, NT Nguyen, KH Nguyen, LD Quach</td>
+    <td>1</td>
+    <td>2023</td>
+  </tr>
+  <tr>
+     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:2osOgNQ5qMEC">Enhancing semantic scene segmentation for indoor autonomous systems using advanced attention-supported improved UNet</a></td>
+    <td>HN Tran, NV Nguyen, NQP Le, NNN Nguyen, TAN Le, VD Nguyen</td>
+    <td></td>
+    <td>2025</td>
+  </tr>
+  <tr>
+     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:IjCSPb-OGe4C">Fine-tuned depth-augmented U-Net for enhanced semantic segmentation in indoor autonomous vision systems</a></td>
+    <td>HN Tran, TAN Le, NV Nguyen, NT Nguyen, AD Nguyen</td>
+    <td></td>
+    <td>2025</td>
+  </tr>
+  <tr>
+     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:UeHWp8X0CEIC">Semantic scene segmentation for indoor autonomous vision systems: leveraging an enhanced and efficient U-NET architecture</a></td>
+    <td>TAN Le, NV Nguyen, NT Nguyen, NQP Le, NNN Nguyen, HN Tran</td>
+    <td></td>
+    <td>2024</td>
+  </tr>
 </table>
 
-<p>Last Updated: 2025-02-04 01:22:16 UTC</p><!-- SCHOLAR-LIST:END -->
+<p>Last Updated: 2025-02-04 01:25:33 UTC</p><!-- SCHOLAR-LIST:END -->
 <br/>
 
 <h1>Coursera Certificate:</h1> <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">

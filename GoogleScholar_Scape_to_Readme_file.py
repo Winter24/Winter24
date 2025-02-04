@@ -83,7 +83,7 @@ def write_to_readme(papers):
         readme_file.write(new_readme_content)
 
 
-url = 'http://giaothong.hochiminhcity.gov.vn/Map.aspx'
+url = 'https://scholar.google.com/citations?user=ztzAuOMAAAAJ&hl=en'
 papers = scrape_google_scholar(url)
 write_to_readme(papers)
 
