@@ -46,17 +46,31 @@
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
 <br/>
 
-- Some typical pointcloud projects with ROS2:
 <table align="center">
+  <!-- Row for ROS2 Webapp Controlling Robot -->
   <tr>
     <td>
-      ## Pedestrian Detection:
-      <p align="center">
-      <img src="https://github.com/Winter24/3D-LiDAR-Object-Detection/blob/master/pedestrian_detection.png" alt="Centered image" width="600" height="400" />  
-      </p>
+      <h2>ROS2 Webapp Controlling Robot</h2>
+      <div align="center">
+        <img src="https://github.com/Winter24/ros2-web-bridge/blob/master/web_bridge.png" alt="Web Bridge 1" width="800" height="500" />
+      </div>
+      <div align="center">
+        <img src="https://github.com/Winter24/ros2-web-bridge/blob/master/web_bridge2.png" alt="Web Bridge 2" width="800" height="500" />
+      </div>
+    </td>
+  </tr>
+  <!-- Row for Pedestrian Detection -->
+  <tr>
+    <td>
+      <h2>Pedestrian Detection</h2>
+      <div align="center">
+        <img src="https://github.com/Winter24/3D-LiDAR-Object-Detection/blob/master/pedestrian_detection.png" alt="Pedestrian Detection" width="600" height="400" />
+      </div>
     </td>
   </tr>
 </table>
+
+
 
 - I have some experience in Competitive Programing:
   <br/>
