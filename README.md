@@ -82,7 +82,7 @@
     <th>Year</th>
   </tr>
   <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:9yKSN-GCB0IC">Deep Learning-Based Lane-Keeping Assist System for Self-Driving Cars Using Transfer Learning and Fine Tuning</a></td>
+     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:9yKSN-GCB0IC">Deep learning-based lane-keeping assist system for self-driving cars using transfer learning and fine tuning</a></td>
     <td>PP Hong, HH Khanh, NN Vinh, NN Trung, AN Quoc, HT Ngoc</td>
     <td>4</td>
     <td>2024</td>
@@ -94,10 +94,16 @@
     <td>2023</td>
   </tr>
   <tr>
-     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:u-x6o8ySG0sC">An Improved Lane-Keeping Controller for Autonomous Vehicles Leveraging an Integrated CNN-LSTM Approach</a></td>
+     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:u-x6o8ySG0sC">An improved lane-keeping controller for autonomous vehicles leveraging an integrated CNN-LSTM approach</a></td>
     <td>TN Hoang, PP Hong, NN Vinh, NT Nguyen, KH Nguyen, LD Quach</td>
     <td>1</td>
     <td>2023</td>
+  </tr>
+  <tr>
+     <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:Tyk-4Ss8FVUC">FAST: A pioneering unlearning framework integrating fine-tuning, adverse training, and student–teacher methods</a></td>
+    <td>HN Tran, NT Nguyen, NV Nguyen, HX Nguyen, AD Nguyen</td>
+    <td></td>
+    <td>2025</td>
   </tr>
   <tr>
      <td><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ztzAuOMAAAAJ&citation_for_view=ztzAuOMAAAAJ:2osOgNQ5qMEC">Enhancing semantic scene segmentation for indoor autonomous systems using advanced attention-supported improved UNet</a></td>
@@ -119,7 +125,7 @@
   </tr>
 </table>
 
-<p>Last Updated: 2025-02-04 01:25:33 UTC</p><!-- SCHOLAR-LIST:END -->
+<p>Last Updated: 2025-03-02 21:27:02 UTC</p><!-- SCHOLAR-LIST:END -->
 <br/>
 
 <h1>Coursera Certificate:</h1> <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
