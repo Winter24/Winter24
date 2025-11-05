@@ -16,10 +16,10 @@
 # 📊GitHub Stats :
 <table align="center">
   <tr>
-    <td>
+    <!-- <td> -->
       <!-- GitHub Stats card -->
       <!-- <img src="https://github-readme-stats.vercel.app/api?username=winter24&show_icons=true&theme=show_icons=true&bg_color=2b213a&title_color=FF66C4&icon_color=F8D866&text_color=C9D1D9&border_color=30363D" /> -->
-    </td>
+    <!-- </td> -->
     <td>
       <!-- Most Used Languages card -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winter24&layout=compact&bg_color=2b213a&title_color=FF66C4&icon_color=F8D866&text_color=C9D1D9&border_color=30363D" />
