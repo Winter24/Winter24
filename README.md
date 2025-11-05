@@ -18,7 +18,7 @@
   <tr>
     <td>
       <!-- GitHub Stats card -->
-      <img src="https://github-readme-stats.vercel.app/api?username=winter24&show_icons=true&theme=show_icons=true&bg_color=2b213a&title_color=FF66C4&icon_color=F8D866&text_color=C9D1D9&border_color=30363D" />
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=winter24&show_icons=true&theme=show_icons=true&bg_color=2b213a&title_color=FF66C4&icon_color=F8D866&text_color=C9D1D9&border_color=30363D" /> -->
     </td>
     <td>
       <!-- Most Used Languages card -->
